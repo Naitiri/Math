@@ -9,8 +9,8 @@ package lesson_3;
 public class task_6 {
     public static void main(String[] args) {
 
-        double a = 2;
-        double b = 0;
+        double a = 5;
+        double b = 3;
         double x;
 
         if (a == 0) {
@@ -21,8 +21,8 @@ public class task_6 {
             x = 0;
 
         } else {
-            double y = 0 - b;
-            x = y/a;
+//            double y = 0 - b;
+            x = -b/a;
 
         }
 
