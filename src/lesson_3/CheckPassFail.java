@@ -10,7 +10,8 @@ public class CheckPassFail {
 
         if (mark >= 50) {
            System.out.println("PASS");
-       } else {
+
+        } else {
            System.out.println("FAIL");
        }
 

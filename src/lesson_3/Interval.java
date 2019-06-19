@@ -8,11 +8,11 @@ public class Interval {
         double a = 3;
 
         if ( a >= -5 && a <= 3) {
-
             System.out.println("Yes");
-        } else {
 
+        } else {
             System.out.println("No");
+
         }
     }
 }

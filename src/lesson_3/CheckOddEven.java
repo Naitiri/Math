@@ -11,6 +11,7 @@ public class CheckOddEven {
 
         if (number%2 != 0){
             System.out.println("Odd Number");
+
         }else {
             System.out.println("Even Number");
         }

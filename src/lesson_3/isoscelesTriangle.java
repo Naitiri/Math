@@ -10,10 +10,9 @@ public class isoscelesTriangle {
         double c = 7;
 
         if ( a == b || b == c || a == c) {
-
             System.out.println("It is isosceles triangle");
-        } else {
 
+        } else {
             System.out.println("No");
         }
     }

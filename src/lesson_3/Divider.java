@@ -9,10 +9,9 @@ public class Divider {
         double b = 1000;
 
         if (b%a == 0) {
-
             System.out.println("Yes");
-        } else {
 
+        } else {
             System.out.println("No");
         }
     }

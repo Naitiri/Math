@@ -14,6 +14,7 @@ public class NumberСomparison {
 
             if (x > y) {
                 System.out.println("The number x has the geatest value");
+
             } else {
                 System.out.println("The number y has the geatest value");
             }
