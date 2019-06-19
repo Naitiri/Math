@@ -6,7 +6,7 @@ package lesson_3;
 public class ComparisonOfNumbersMagnitude {
     public static void main(String[] args) {
 
-        int x = -30;
+        int x = -50;
         int y = 20;
 
         if (x != y) {
